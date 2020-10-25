@@ -109,3 +109,21 @@ header a:hover {
     height: auto;
 }
 
+/*Features*/
+#features {
+    padding: 15px;
+    background: seashell;
+    text-align: center;
+}
+
+#features .box {
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+
+#features .box img {
+    width: 300px;
+    height: auto;
+}
