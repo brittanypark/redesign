@@ -1,5 +1,11 @@
+.scheader {
+    color: #228E54;
+    filter: opacity(100%);
+}
+
 .subtitle {
     color: black;
+    filter: opacity(100%);
     font-style: italic;
 }
 
@@ -74,5 +80,5 @@ header a:hover {
     color: #228E54;
     background: url(headerphoto.jpg) no-repeat 0 -400px;
     background-size: cover;
-    filter: brightness(120%);
+    filter: opacity(50%);
 }
