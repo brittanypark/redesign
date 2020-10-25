@@ -56,3 +56,12 @@ header nav {
     float: right;
     margin-top: 10px;
 }
+
+header .current a {
+    font-weight: bold;
+}
+
+header a:hover {
+    color: #ED994C;
+    font-weight: bold;
+}
