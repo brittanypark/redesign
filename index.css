@@ -73,9 +73,9 @@ header a:hover {
     min-height: 400px;
     text-align: center;
     color: #228E54;
-    background: url(headerphoto.jpg) no-repeat 0 -400px;
+    background: url(headerphoto.jpg) no-repeat;
     background-size: cover;
-    position: absolute;
+    position: relative;
     filter: opacity(75%);
 }
 
