@@ -8,12 +8,10 @@ body {
 }
 
 /*Global*/
-.flex-container {
-    /*width: 80%;
+.container {
+    width: 80%;
     margin: auto;
-    overflow: hidden;*/
-    display: flexbox;
-    flex-direction: column;
+    overflow: hidden;
 }
 
 ul {
