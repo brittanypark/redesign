@@ -84,3 +84,8 @@ header a:hover {
     font-style: italic;
     font-size: 30px;
 }
+
+#ordering {
+    padding: 15px;
+    background: #A3DC69;
+}
