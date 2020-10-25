@@ -98,5 +98,12 @@ header a:hover {
 
 #ordering .box {
     float: left;
+    text-align: center;
     width: 30%;
+    padding: 10px;
+}
+
+#ordering .box img {
+    width: 90px;
+    height: auto;
 }
