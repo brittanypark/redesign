@@ -3,3 +3,7 @@
 .main-nav {
     float: right;
 }
+
+.subtitle {
+    font-style: italic;
+}
