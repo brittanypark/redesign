@@ -5,6 +5,7 @@
 }
 
 .h1 {
+    background-color: thistle;
     background-image: url(header-photo.jpg);
     height: 100vh;
     background-size: cover;
