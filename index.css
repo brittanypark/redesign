@@ -1,1 +1,5 @@
-/* Put your style information here! */
+.header {
+    background-image: url(header-photo.jpg);
+    background-position: center;
+    background-size: contain;
+}
