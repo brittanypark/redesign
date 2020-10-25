@@ -75,7 +75,7 @@ header a:hover {
     color: #228E54;
     background: url(headerphoto.jpg) no-repeat 0 -400px;
     background-size: cover;
-    position: relative;
+    position: absolute;
     filter: opacity(75%);
 }
 
