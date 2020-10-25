@@ -156,3 +156,15 @@ header a:hover {
 #description p {
     text-align: center;
 }
+
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #A3DC69;
+    text-align: center;
+}
+
+footer img {
+    width: 90px;
+    height: auto;
+}
