@@ -54,4 +54,5 @@ header #branding h1 {
 
 header nav {
     float: right;
+    margin-top: 10px;
 }
