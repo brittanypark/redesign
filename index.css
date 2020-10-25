@@ -69,9 +69,9 @@ header a:hover {
 /*Showcase*/
 #showcase {
     min-height: 400px;
+    text-align: center;
+    color: #228E54;
     background: url(headerphoto.jpg) no-repeat 0 -400px;
     background-size: cover;
     filter: opacity(50%);
-    text-align: center;
-    color: #228E54;
 }
