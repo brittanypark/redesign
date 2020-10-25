@@ -9,7 +9,7 @@ body {
 
 /*Global*/
 .container {
-    position: absolute;
+    position: inherit;
     width: 80%;
     margin: auto;
     overflow: hidden;
