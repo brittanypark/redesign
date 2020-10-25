@@ -85,8 +85,18 @@ header a:hover {
     font-size: 30px;
 }
 
+/*Ordering*/
 #ordering {
     padding: 15px;
     background: #A3DC69;
     text-align: center;
+}
+
+#ordering {
+    margin-top: 20px;
+}
+
+#ordering .box {
+    float: left;
+    width: 30%;
 }
