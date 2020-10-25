@@ -95,6 +95,7 @@ header a:hover {
     padding: 15px;
     background: #A3DC69;
     text-align: center;
+    border-bottom: #228E54 3px solid;
 }
 
 #ordering .box {
@@ -127,3 +128,5 @@ header a:hover {
     width: 300px;
     height: auto;
 }
+
+/*Description*/
