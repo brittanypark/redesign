@@ -69,6 +69,6 @@ header a:hover {
 /*Showcase*/
 #showcase {
     min-height: 400px;
-    background: url(headerphoto.jpg) no-repeat;
+    background: url(headerphoto.jpg) no-repeat 0 -400px;
     background-size: cover;
 }
