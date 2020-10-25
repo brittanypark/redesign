@@ -138,6 +138,11 @@ header a:hover {
     padding: 10px;
 }
 
+#features .box1 img {
+    width: 300px;
+    height: auto;
+}
+
 /*Description*/
 #description {
     padding: 15px;
