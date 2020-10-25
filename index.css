@@ -21,4 +21,7 @@ body {
 /*Header*/
 header {
     background-color: seashell;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #228E54 3px solid;
 }
