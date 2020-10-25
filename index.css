@@ -139,3 +139,7 @@ header a:hover {
 #description h1{
     color: #ED994C;
 }
+
+#description p {
+    text-align: center;
+}
